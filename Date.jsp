@@ -9,7 +9,7 @@
     System.out.println("Hello World in Console!");
  
     //Prints out to HTML page
-    out.println("<h1>Hello World!</h1>");
+    out.println("<h1>Hello Student!</h1>");
 %>
 </body>
 </html>
