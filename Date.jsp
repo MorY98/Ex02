@@ -1,5 +1,6 @@
-<
-	Date d = new date();	
-    System.out.println("current date = " + d);
->
-
+```
+<%
+Date d = new Date();
+System.out.println("Current Date="+d);
+%>
+```
